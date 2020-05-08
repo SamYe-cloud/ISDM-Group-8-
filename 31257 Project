@@ -1,1 +1,39 @@
+Stakeholders
+Primary:
+    1. Travel Company:  Roles: The project owner. To provide what the company want and achieve.
+                        Interests: Want to have a RM system to improve its CMC and get more customers.
+                        Quality of Importance: Modifiability, Scalability, Availability
+    2. Employees:       Roles:User of the system and work for the company to provide service to customers by calling.
+                        Interests: 1.	Save time. 2.	Want to easily understand what customers mean.
+                        Quality of Importance: Usability, Availability, Performance
+    3. Customers:       Roles: User of the system. People who are served by employees of the company.
+                        Interests: 1.	Save time. 2.	Want to experience a good trip. 3.	Want the employees easily understand what they mean.
+                        Quality of Importance: Usability, Availability, Performance, Scalability
+    4. Developing Team: Roles: Developers. The team who develop and achieve functions of the system.
+                        Interests: They want to develop the RM system to achieve the requirements supplied by the project owner.
+                        Quality of Importance: Performance, Modifiability, Testability, Usability
+    5. Maintenance Team: Roles: Developers. The team who regularly maintain the system.
+                         Interests: They want to make regularly update and operation to keep the system working well.
+                         Quality of Importance: Modifiability, Testability, Maintainability, Usability
+    6. Managers:        Roles: Scrum Master who admin employees and teams work.
+                        Interests: They want teams cooperate each other and employees work as expected.
+                        Quality of Imortance: Modifiability, Performance, Availability
+    7. Engineers:       Roles: Applies engineering principles and make some designs.
+                        Interests: They want to design a feasible RM system to let developers achieve.
+                        Quality of Importance: Performance, Usability, Availability
+Secondary:
+    1. System Security Team:   Roles: The team who maintain safety of the system.
+                               Interests: 1.	Protect customers and workers information. 2.	Protect Records of call. 3.	Protect any attack to RM system.
+                               Quality of Importance: Maintainability, Usability
+    2. Suppliers:              Roles: Who supplies any of support such as technology, investment and equipment.
+                               Interests: They want to provide support to this system to get profit through the project.
+                               Quality of Importance: Performance, Scalability, Availability, Usability
+    3. Business Partner:       Roles: An internal investor.
+                               Interests: They want to make profit and have greater marketing opportunities.
+                               Quality of Importance: Availability, Performance
+    4. Complaint Institutions: Roles: To Provide a platform for users to complaint any drawbacks of the system.
+                               Interests: They want to protect customers rights and to make the RM system better.
+                               Quality of Importance: Performance, Scalability, Usability, Maintainability
+
+
 
