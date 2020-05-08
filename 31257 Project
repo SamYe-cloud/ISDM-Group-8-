@@ -36,13 +36,6 @@ Secondary:
                                Interests: They want to protect customers rights and to make the RM system better.
                                Quality of Importance: Performance, Scalability, Usability, Maintainability
                                
- Project Assumptions
-•	We have enough financial resources to complete the project
-•	Training cost will incur internally and no extra cost will be applied.
-•	The project will follow an iterative agile methodology 
-•	We have accurate information of every customers i.e. age, sex, culture, language proficiency etc. (case study 2020)
-•	The new employee is providing accurate data about his skills on the RM Profiles.
-•	The customer updates their post code when they move to have reliable customer data for the travel company.
 
 
 
@@ -59,6 +52,5 @@ Secondary:
 -	Step 4 (Prototype) =  Website webchat and SMS are the best option for the customers. Because it is both beneficial for the customers and the company. The customers can get the most out of the company. Such as getting an experienced RM. Furthermore, it is also cheaper to implement webchat and SMS compared to calls, and the company does not need to hire many RMs, because 1 RM can communicate with several customers simultaneously. The customers does not need to wait for so long to get a RM to talk with them and the customers will not have to experience a high call volume. When the company are using a website, the customers could browse the website. The website will offer and give lots of knowledge to the customers. Some elderly customers might not be able to use a website, therefore, they could use SMS to reach the company. 
 
 
-Step 5 (Test) = The company can slowly implement the use of webchat and SMS to a small amount of customer first. It is important not to test on a large amount of customer, because in case if it did not succeed, it will not impact so much on the company. The company should test on small portion on customer to receive feedbacks from the customer about the new SMS and webchat implementation. Furthermore, by testing it on the customers, the company can know that if they successfully satisfy the customers.
+-   Step 5 (Test) = The company can slowly implement the use of webchat and SMS to a small amount of customer first. It is important not to test on a large amount of customer, because in case if it did not succeed, it will not impact so much on the company. The company should test on small portion on customer to receive feedbacks from the customer about the new SMS and webchat implementation. Furthermore, by testing it on the customers, the company can know that if they successfully satisfy the customers.
 
-dd
