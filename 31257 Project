@@ -1,3 +1,10 @@
+Project Assumptions
+•	We have enough financial resources to complete the project
+•	Training cost will incur internally and no extra cost will be applied.
+•	The project will follow an iterative agile methodology 
+•	We have accurate information of every customers i.e. age, sex, culture, language proficiency etc. (case study 2020)
+•	The new employee is providing accurate data about his skills on the RM Profiles.
+•	The customer updates their post code when they move to have reliable customer data for the travel company.
 
 Stakeholders
 Primary:
@@ -37,9 +44,6 @@ Secondary:
                                Quality of Importance: Performance, Scalability, Usability, Maintainability
                                
 
-
-
-
 -	Step 1 (Empathise) =  New customers and non-potential buyers will experience a different level of service from the company. Some consumers might find the company is very discriminating as they judge people from where they live. Some customers might get frustrated with the RM, due to lack of knowledge about the things they are selling when being asked. Furthermore, customers with low scores are not getting any prioritisation might make the customer not willing to buy the product anymore. Some consumers fear that they receive a different level of service. The customers might get hold for too long when the RMs are all busy. However, when this technology and idea are being implemented, the customers will have more efficiency. 
 
 
@@ -53,4 +57,5 @@ Secondary:
 
 
 -   Step 5 (Test) = The company can slowly implement the use of webchat and SMS to a small amount of customer first. It is important not to test on a large amount of customer, because in case if it did not succeed, it will not impact so much on the company. The company should test on small portion on customer to receive feedbacks from the customer about the new SMS and webchat implementation. Furthermore, by testing it on the customers, the company can know that if they successfully satisfy the customers.
+
 
