@@ -1,3 +1,25 @@
+Outline the objectives of the project and define the problem
+
+This report provides an analysis and design of an improvement for the information system for the travel company.  The methods conducted for the redesigning of the overall call management centre system employs a number analysis tools such as design thinking methodology such as empathy maps and Brainstorming, system analysis, visual models and other non-visual methods are deployed to ensures that the Travel company has a better understanding on its improvements. The report will cover the overall problem of the system and the methods to use,  identify stakeholders to determine the projects target audience but to better understand their expectation to the project, to ensure the resulted outcome, the reasons of using scum or agile methodology as to highlight what activities that SCUM contains, the assumptions for the system analysis, the proposal of the product as well as the models used,  and the advantages gained from the new information system used. 
+
+problem with  the new design for the Call management Centre, for a major travel company. This new information system which includes the Call Management Centre (CMC) will help the flow rate of calls to help the relation management as it is essential for the performance for the sales in holiday packages with features such as inbound  / outbound calls that would improve assistances to the relation management . These improvements if applied, it helps existing-customers or new customers and provide many features. 
+
+The problem arises when the current RM where segmenting customers information into different segment type such as postcodes and surname, thus this report will discuss the extensive methods that will be deployed to support many more information such as the age, gender, language to create a skill matcher which finds the connections between the customers and the RM.
+
+The solution proposed in the report would feature several benefits with the new systems, some include recruitment as RM profiles can provide many useful information such as the overall profile and skill matrix to be lodged in the system with information gathering technique such as questionnaires. This will ensure that the RMs will produce better performance in selling and serving customers more efficiency and effective than previously shown
+
+
+The problem arises when the current RM where segmenting customers information into different segment type such as postcodes and surname, thus this report will discuss the extensive methods that will be deployed to support many more information such as the age, gender, language to create a skill matcher which finds the connections between the customers and the RM.
+
+The solution proposed in the report would feature several benefits with the new systems, some include recruitment as RM profiles can provide many useful information such as the overall profile and skill matrix to be lodged in the system with information gathering technique such as questionnaires. This will ensure that the RMs will produce better performance in selling and serving customers more efficiency and effective than previously shown。
+
+Project Assumptions
+•	We have enough financial resources to complete the project
+•	Training cost will incur internally and no extra cost will be applied.
+•	The project will follow an iterative agile methodology 
+•	We have accurate information of every customers i.e. age, sex, culture, language proficiency etc. (case study 2020)
+•	The new employee is providing accurate data about his skills on the RM Profiles.
+•	The customer updates their post code when they move to have reliable customer data for the travel company.
 
 Stakeholders
 Primary:
@@ -37,9 +59,6 @@ Secondary:
                                Quality of Importance: Performance, Scalability, Usability, Maintainability
                                
 
-
-
-
 -	Step 1 (Empathise) =  New customers and non-potential buyers will experience a different level of service from the company. Some consumers might find the company is very discriminating as they judge people from where they live. Some customers might get frustrated with the RM, due to lack of knowledge about the things they are selling when being asked. Furthermore, customers with low scores are not getting any prioritisation might make the customer not willing to buy the product anymore. Some consumers fear that they receive a different level of service. The customers might get hold for too long when the RMs are all busy. However, when this technology and idea are being implemented, the customers will have more efficiency. 
 
 
@@ -60,3 +79,4 @@ Secondary:
 The advantage of implementing a new information system is, it increases the efficiency of the company. The information system allows the company to compete with other competitors by maintaining cheap costs, focusing on market niche, improving the performance, better response to the customers, and differentiating the products and services from the other competitors. Furthermore, information system could expand the company’s business into global markets. For instance, customers can buy tickets from all over the world. Information system can also help the company to use customer demands to improve products and services that they are selling; thus, it could improve the sales and profits of the company. 
 
 However, a system failure could happen, when a system does not meet its requirement, or when the company is using outdated technology. Furthermore, the failure of information system in a business is due to a lack of experience to manage the new information system. When the information system fails in a business, it could lead to a huge disadvantage result for the company. Such as it could lead to substantial financial loss and bankrupt. When a business implements an information system, it requires a vast amount of money, and when it did not go as plan, the business will go bankrupt. Also, it could cause the company to lose customers. Such as, when the website is out of action and the customers could not access the website, the customers will choose another company. Therefore, it will cause permanent damage to the company’s reputation and commercial embarrassment. 
+
