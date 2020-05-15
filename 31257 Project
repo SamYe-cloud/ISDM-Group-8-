@@ -23,27 +23,27 @@ Project Assumptions
 
 Stakeholders
 Primary:
-    1. Travel Company:  Roles: The project owner. To provide what the company want and achieve.
-                        Interests: Want to have a RM system to improve its CMC and get more customers.
-                        Quality of Importance: Modifiability, Scalability, Availability
-    2. Employees:       Roles:User of the system and work for the company to provide service to customers by calling.
-                        Interests: 1.	Save time. 2.	Want to easily understand what customers mean.
-                        Quality of Importance: Usability, Availability, Performance
-    3. Customers:       Roles: User of the system. People who are served by employees of the company.
-                        Interests: 1.	Save time. 2.	Want to experience a good trip. 3.	Want the employees easily understand what they mean.
-                        Quality of Importance: Usability, Availability, Performance, Scalability
-    4. Developing Team: Roles: Developers. The team who develop and achieve functions of the system.
-                        Interests: They want to develop the RM system to achieve the requirements supplied by the project owner.
-                        Quality of Importance: Performance, Modifiability, Testability, Usability
-    5. Maintenance Team: Roles: Developers. The team who regularly maintain the system.
-                         Interests: They want to make regularly update and operation to keep the system working well.
-                         Quality of Importance: Modifiability, Testability, Maintainability, Usability
-    6. Managers:        Roles: Scrum Master who admin employees and teams work.
-                        Interests: They want teams cooperate each other and employees work as expected.
-                        Quality of Imortance: Modifiability, Performance, Availability
-    7. Engineers:       Roles: Applies engineering principles and make some designs.
-                        Interests: They want to design a feasible RM system to let developers achieve.
-                        Quality of Importance: Performance, Usability, Availability
+    1. Travel Company:         Roles: The project owner. To provide what the company want and achieve.
+                               Interests: Want to have a RM system to improve its CMC and get more customers.
+                               Quality of Importance: Modifiability, Scalability, Availability
+    2. Relationship Managers:  Roles:User of the system and work for the company to provide service to customers by calling.
+                               Interests: 1.	Save time. 2.	Want to easily understand what customers mean.
+                               Quality of Importance: Usability, Availability, Performance
+    3. Customers:              Roles: User of the system. People who are served by employees of the company.
+                               Interests: 1.	Save time. 2.	Want to experience a good trip. 3.	Want the employees easily understand what they mean.
+                               Quality of Importance: Usability, Availability, Performance, Scalability
+    4. Developing Team:        Roles: Developers. The team who develop and achieve functions of the system.
+                               Interests: They want to develop the RM system to achieve the requirements supplied by the project owner.
+                               Quality of Importance: Performance, Modifiability, Testability, Usability
+    5. Maintenance Team:       Roles: Developers. The team who regularly maintain the system.
+                               Interests: They want to make regularly update and operation to keep the system working well.
+                               Quality of Importance: Modifiability, Testability, Maintainability, Usability
+    6. Managers:               Roles: Scrum Master who admin employees and teams work.
+                               Interests: They want teams cooperate each other and employees work as expected.
+                               Quality of Imortance: Modifiability, Performance, Availability
+    7. Engineers:              Roles: Applies engineering principles and make some designs.
+                               Interests: They want to design a feasible RM system to let developers achieve.
+                               Quality of Importance: Performance, Usability, Availability
 Secondary:
     1. System Security Team:   Roles: The team who maintain safety of the system.
                                Interests: 1.	Protect customers and workers information. 2.	Protect Records of call. 3.	Protect any attack to RM system.
@@ -78,5 +78,7 @@ Secondary:
 
 The advantage of implementing a new information system is, it increases the efficiency of the company. The information system allows the company to compete with other competitors by maintaining cheap costs, focusing on market niche, improving the performance, better response to the customers, and differentiating the products and services from the other competitors. Furthermore, information system could expand the company’s business into global markets. For instance, customers can buy tickets from all over the world. Information system can also help the company to use customer demands to improve products and services that they are selling; thus, it could improve the sales and profits of the company. 
 
+
 However, a system failure could happen, when a system does not meet its requirement, or when the company is using outdated technology. Furthermore, the failure of information system in a business is due to a lack of experience to manage the new information system. When the information system fails in a business, it could lead to a huge disadvantage result for the company. Such as it could lead to substantial financial loss and bankrupt. When a business implements an information system, it requires a vast amount of money, and when it did not go as plan, the business will go bankrupt. Also, it could cause the company to lose customers. Such as, when the website is out of action and the customers could not access the website, the customers will choose another company. Therefore, it will cause permanent damage to the company’s reputation and commercial embarrassment. 
+
 
